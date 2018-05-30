@@ -1,7 +1,7 @@
 public class helloworld
 {
   public static void main(String[] args) {
-        System.out.println("Hello gjfgkfgkfj ");
+        System.out.println("Hello World ");
  //creating object
   }
 }
