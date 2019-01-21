@@ -1,9 +1,9 @@
 public class helloworld
 {
   public static void main(String[] args) {
-        System.out.println("Hello World again !!! ");
+        System.out.println("Hello World!");
     
-        System.out.println("New line added today ... 11th Sep 2018 16:42");
+        //System.out.println("New line added today ... 11th Sep 2018 16:42");
  //creating object
   }
 }
