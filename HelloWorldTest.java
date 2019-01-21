@@ -5,11 +5,11 @@ import org.junit.Test;
 
 public class HelloWorldTest {
 
-	private HelloWorld subject;
+	private helloworld subject;
 
 	@Before
 	public void setup() {
-		subject = new HelloWorld();
+		subject = new helloworld();
 	}
 	
 	@Test
