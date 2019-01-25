@@ -2,6 +2,6 @@ public class abc
 {
 	public static void main(String x[])
         {
-           System.out.println("Hello");
+           System.out.println("CSS");
         }
 }
